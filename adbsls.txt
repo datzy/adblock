@@ -1,3 +1,4 @@
+googleadservices.com
 ads.google.com
 adservice.google.com
 pagead2.googleadservices.com
@@ -25,3 +26,6 @@ pixel.facebook.com
 analytics.facebook.com
 ads.facebook.com
 an.facebook.com
+adservetx.media.net
+advertising-api-eu.amazon.com
+ssl.google-analytics.com
