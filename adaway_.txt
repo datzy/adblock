@@ -1,3 +1,7 @@
+googleadservices.com
+pagead2.googleadservices.com
+ads.google.com
+pagead2.googlesyndication.com
 check-host.net
 163.com
 analytics.163.com
