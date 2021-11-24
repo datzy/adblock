@@ -1,3 +1,4 @@
+check-host.net
 163.com
 analytics.163.com
 crash.163.com
