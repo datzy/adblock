@@ -1,3 +1,4 @@
+||pagead2.googlesyndication.com^
 googleadservices.com
 ads.google.com
 adservice.google.com
