@@ -1,3 +1,5 @@
+||app.getsentry.com^
+||stats.wp.com^
 ||pagead2.googlesyndication.com^
 googleadservices.com
 ads.google.com
