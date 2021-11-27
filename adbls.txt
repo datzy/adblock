@@ -1,6 +1,7 @@
-||click.oneplus.cn^
+app.getsentry.com
+click.oneplus.cn
 ||widgets.pinterest.com^
-||browser.sentry-cdn.com^
+browser.sentry-cdn.com
 ||affiliationjs.s3.amazonaws.com^
 ||ads.google.com^
 ||adservice.google.com^
